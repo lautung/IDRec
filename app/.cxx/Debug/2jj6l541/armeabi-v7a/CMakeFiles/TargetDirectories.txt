@@ -1,0 +1,3 @@
+D:/AndroidProjects/IDRec/app/.cxx/Debug/2jj6l541/armeabi-v7a/CMakeFiles/native-lib.dir
+D:/AndroidProjects/IDRec/app/.cxx/Debug/2jj6l541/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/AndroidProjects/IDRec/app/.cxx/Debug/2jj6l541/armeabi-v7a/CMakeFiles/rebuild_cache.dir

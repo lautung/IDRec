@@ -1,0 +1,13 @@
+CMake Error at /Users/jesson/Library/Android/sdk/ndk/24.0.8215888/build/cmake/android-legacy.toolchain.cmake:242 (message):
+  gnustl_static is no longer supported.  Please switch to either c++_shared
+  or c++_static.  See
+  https://developer.android.com/ndk/guides/cpp-support.html for more
+  information.
+Call Stack (most recent call first):
+  /Users/jesson/Library/Android/sdk/ndk/24.0.8215888/build/cmake/android.toolchain.cmake:54 (include)
+  /Users/jesson/Library/Android/sdk/cmake/3.6.4111459/share/cmake-3.6/Modules/CMakeDetermineSystem.cmake:98 (include)
+  CMakeLists.txt
+
+
+CMake Error: CMAKE_C_COMPILER not set, after EnableLanguage
+CMake Error: CMAKE_CXX_COMPILER not set, after EnableLanguage
